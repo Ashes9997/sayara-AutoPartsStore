@@ -1,0 +1,2 @@
+# sayara
+ This project is about making an e-commerce website for selling vehicle spare parts online, featuring a comprehensive catalog of products, advanced search and filtering options, and a secure checkout process. The website is built with a responsive design, ensuring seamless user experience across all devices.Utilized HTML, CSS, JavaScript, and a backend framework to provide a robust and scalable platform for customers.
